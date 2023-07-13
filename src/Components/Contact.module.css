@@ -1,0 +1,13 @@
+.contact_h h1{
+
+ font-size: 5rem;
+ font-weight: 800;
+}
+
+.contact_h p{
+    font-weight: 500;
+}
+
+.contact_h{
+    margin-top: 2rem;
+}
